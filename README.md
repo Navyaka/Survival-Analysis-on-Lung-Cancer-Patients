@@ -19,6 +19,4 @@ Steps followed are:
   - Data Visualization of Target Variables
   - Ensured that data is in format for survival analysis with columns representing time, event status, and covariates
   - Estimated the survival function using Kaplan-Meier Estimator method and computed the median survival time
-  - Performed hypothesis testing to determine whether there is a statistically significant difference in survival
-between the groups
   - Interpreted the results and reported the findings by creating survival curves
